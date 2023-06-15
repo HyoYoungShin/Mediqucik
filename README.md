@@ -1,6 +1,9 @@
 # mediquick
 
-A new Flutter project.
+Mediquick is a hospital reservation application. Mediquick’s objective is to save time that people spend on making hospital reservation and receiving medical treatment. Mediquick makes people drop by a hospital like MacDonald drive-through.
+Main functions of Mediquick are hospital reservation, hospital review, and providing medical information.
+
+![image](https://github.com/HyoYoungShin/Team24_Mediqucik/assets/84322505/ba2b3611-ce94-41fa-8549-3e4f62c1833a)
 
 ## Getting Started
 
